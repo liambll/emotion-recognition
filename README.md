@@ -1,4 +1,4 @@
-# Machine Learning Project: Facial Expression Recognition in Real-Time
+# Facial Expression Recognition in Real-Time
 - Facial expression classification using Linear Discrimination Analysis (FisherFace) and Convolutional Neural Network
 - Demo for real-time Facial expression classification based on image from camera feed
 - Technologies: Python, OpenCV, Keras, Amazon AWS
